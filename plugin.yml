@@ -1,0 +1,6 @@
+name: UltimatePapi
+version: 1.0.0
+author: Brook Stone
+
+main: me.brook.placeholderkits.UltimatePapi
+depend: [PlaceholderAPI, UltimateKits]
