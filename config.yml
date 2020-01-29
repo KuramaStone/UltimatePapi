@@ -1,0 +1,6 @@
+Papi:
+  available:
+    true: "Available"
+    false: "Unavailable"
+  delay:
+    available: "Available"
